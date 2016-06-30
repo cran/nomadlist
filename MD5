@@ -1,0 +1,7 @@
+e6a8211a722cab8273b9d4aa72ce032e *DESCRIPTION
+dfd4ef6c9d20cf96e19d62fd4378775a *NAMESPACE
+72b1672e150c23c74f7c1d6549a11683 *R/nomadlist.R
+da83c8e41ea7e37290a639f61c4c994b *man/getnomadcities.Rd
+d24285415630e06b0f2802a39a6df15f *man/nomadlist.Rd
+0ae625c42b7768d7c68be1d7de00ed0c *tests/testthat.R
+128bc0b04be955d2882aa8f263c3ae08 *tests/testthat/test-nomadlist.R
